@@ -34,15 +34,6 @@ public class Main {
         System.out.println("======================================================");
 
         subject.notifyObservers("Fuel prices gone up!");
-
-        //you can create a folder in your machine called news
-        //whenever you have new news you can create a new text file and add theme to it and copy the text file in to news folder
-        //our subject class keep watching the news folder -> and whenever new news is available, it call the notifyObservers method with
-        //the you can delete the news file
-        //keep watching for more news
-
-        //create a small gui
-        //create a from to enter the name and email address of user
-        //and submit -> you can add item to the observer List
+        
     }
 }
